@@ -1,4 +1,4 @@
-# Calculadora-collab
+# Calculadora -python
 print("Calculadora simples")
 
 num1 = float(input("Digite o primeiro número: "))
